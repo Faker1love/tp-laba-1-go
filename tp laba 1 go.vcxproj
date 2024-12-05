@@ -127,7 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="keeper.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="staff.cpp" />
+    <ClCompile Include="students.cpp" />
+    <ClCompile Include="teachers.cpp" />
+    <ClCompile Include="vuz.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="keeper.h" />
+    <ClInclude Include="staff.h" />
+    <ClInclude Include="students.h" />
+    <ClInclude Include="teachers.h" />
+    <ClInclude Include="vuz.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

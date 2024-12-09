@@ -42,6 +42,7 @@ void Keeper::display() const {
     for (size_t i = 0; i < size; ++i) {
         std::cout << "Object " << i + 1 << ":\n";
         objects[i]->display();
+        std::cout << "" << std::endl;
     }
 }
 

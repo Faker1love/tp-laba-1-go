@@ -1,13 +1,16 @@
 2
-Student
-Daniil
+Teacher
+Petrov A U
+4
 1245
-Rocket League
-3
-4.2
-Student
-SirGay
-1245
-Doka 2
-3
-4.5
+1242
+1243
+1241
+2
+TP
+OOP
+Admin
+Vantseva S N
+Cleaner
+88001112233
+Lecture hall

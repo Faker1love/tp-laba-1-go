@@ -103,7 +103,6 @@
     <ClCompile Include="staff.cpp" />
     <ClCompile Include="students.cpp" />
     <ClCompile Include="teachers.cpp" />
-    <ClCompile Include="vuz.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="keeper.h" />
